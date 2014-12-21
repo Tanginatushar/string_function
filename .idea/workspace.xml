@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987e0c5a-4314-4956-9c2f-68838bb53f70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/money_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setlocale.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="string_function.iws" />
@@ -48,8 +48,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="money_format.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="money_format.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/money_format.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.416667" vertical-offset="299" max-vertical-offset="735">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setlocale.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setlocale.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="376">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -70,6 +80,8 @@
         <option value="$PROJECT_DIR$/htmlentities.php" />
         <option value="$PROJECT_DIR$/implode.php" />
         <option value="$PROJECT_DIR$/money_format.php" />
+        <option value="$PROJECT_DIR$/printf.php" />
+        <option value="$PROJECT_DIR$/setlocale.php" />
       </list>
     </option>
   </component>
@@ -258,6 +270,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/money_format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.416667" vertical-offset="299" max-vertical-offset="735">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setlocale.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
