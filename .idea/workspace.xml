@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="987e0c5a-4314-4956-9c2f-68838bb53f70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strlen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/strtolower.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="string_function.iws" />
@@ -38,8 +38,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strlen.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="strlen.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strlen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strtolower.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/strtolower.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="376">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -67,6 +77,7 @@
         <option value="$PROJECT_DIR$/str_repeat.php" />
         <option value="$PROJECT_DIR$/str_replace.php" />
         <option value="$PROJECT_DIR$/strlen.php" />
+        <option value="$PROJECT_DIR$/strtolower.php" />
       </list>
     </option>
   </component>
@@ -303,6 +314,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/strlen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strtolower.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
